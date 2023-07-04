@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon020&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon020&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon020&layout=compact&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon020)](https://solved.ac/hyeon020/)
 
 <!--
